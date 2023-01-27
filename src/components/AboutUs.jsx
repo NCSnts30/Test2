@@ -8,8 +8,8 @@ function AboutUs() {
         <span className="text-7xl ">
           <Typed
             strings={['About Us']}
-            typeSpeed={200}
-            backSpeed={100}
+            typeSpeed={300}
+            backSpeed={200}
             loop
             smartBackspace
           />
